@@ -129,6 +129,8 @@ where heiti = "Gucci Gang"*/
 
 /*3*/
 /*select heiti, lengd, tegundID
+from lag
+where tegundID = 1*/
 
 /*4 Það kemur einhver skrítinn villa hér sem ég er ekki að fatta.*/
 from lag
